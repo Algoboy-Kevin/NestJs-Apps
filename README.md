@@ -18,12 +18,12 @@ npm start
 
 ## 📻 Features
 
-The server will run on localhost:3000/ use postman to send API request
-GET - localhost:3000/products
-POST - localhost:3000/products
-GET - localhost:3000/products/id
-PATCH - localhost:3000/products/id
+The server will run on localhost:3000/ use postman to send API request.
 
+| Request | Req URL | Description |
+| ----------- | ----------- | ----------- |
+| GET | localhost:3000/products | Get stored array of products |
+| POST | localhost:3000/products | Store an product object |
+| GET | localhost:3000/products/id | Get a single products by id |
+| PATCH | localhost:3000/products | Update a single product elements |
 
-
-gi
